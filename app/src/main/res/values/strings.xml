@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArcoreMeasurement</string>
+    <string name="to_measurement_button">To Measurement</string>
+    <string name="clear">Clear</string>
+</resources>
